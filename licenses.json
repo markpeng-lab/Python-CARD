@@ -54,5 +54,12 @@
     "start": "",
     "end": "",
     "days": 1
+  },
+  "Test5-4TYE0G": {
+    "type": "5分鐘測試卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "minutes": 5
   }
 }
