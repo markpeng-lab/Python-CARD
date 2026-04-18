@@ -222,5 +222,12 @@
     "start": "",
     "end": "",
     "days": 7
+  },
+  "W-BOFIZE": {
+    "type": "1周卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "days": 7
   }
 }
