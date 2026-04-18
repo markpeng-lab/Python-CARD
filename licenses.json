@@ -271,5 +271,26 @@
     "start": "",
     "end": "",
     "days": 1
+  },
+  "W-4OMQEF": {
+    "type": "1周卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "days": 7
+  },
+  "W-XTTMO4": {
+    "type": "1周卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "days": 7
+  },
+  "W-B3KSLC": {
+    "type": "1周卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "days": 7
   }
 }
