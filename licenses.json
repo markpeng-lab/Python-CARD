@@ -257,5 +257,19 @@
     "start": "",
     "end": "",
     "days": 1
+  },
+  "D-ETIOOI": {
+    "type": "1天卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "days": 1
+  },
+  "D-YUZDJQ": {
+    "type": "1天卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "days": 1
   }
 }
