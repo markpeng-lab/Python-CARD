@@ -236,5 +236,26 @@
     "start": "",
     "end": "",
     "days": 30
+  },
+  "D-7D1TTO": {
+    "type": "1天卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "days": 1
+  },
+  "D-P6GOJQ": {
+    "type": "1天卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "days": 1
+  },
+  "D-UK2V3Y": {
+    "type": "1天卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "days": 1
   }
 }
