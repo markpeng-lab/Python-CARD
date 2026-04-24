@@ -351,9 +351,9 @@
   },
   "Test5-IZUDHW": {
     "type": "5分鐘測試卡",
-    "pcid": "",
-    "start": "",
-    "end": "",
+    "pcid": "9E0FC341-D32B-47A2-BC44-4B6EDEF3237B-BFEBFBFF000906EA",
+    "start": "2026-04-24 19:56:51",
+    "end": "2026-04-24 20:01:51",
     "minutes": 5
   }
 }
