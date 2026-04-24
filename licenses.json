@@ -397,5 +397,12 @@
     "start": "",
     "end": "",
     "minutes": 5
+  },
+  "T-E2KFTY": {
+    "type": "3小時試用卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "hours": 3
   }
 }
