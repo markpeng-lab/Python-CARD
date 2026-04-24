@@ -362,5 +362,40 @@
     "start": "",
     "end": "",
     "days": 1
+  },
+  "Test5-EPKI9F": {
+    "type": "5分鐘測試卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "minutes": 5
+  },
+  "Test5-ODBU21": {
+    "type": "5分鐘測試卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "minutes": 5
+  },
+  "Test5-CY00I6": {
+    "type": "5分鐘測試卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "minutes": 5
+  },
+  "Test5-A1SEJT": {
+    "type": "5分鐘測試卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "minutes": 5
+  },
+  "Test5-AO8WR1": {
+    "type": "5分鐘測試卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "minutes": 5
   }
 }
