@@ -502,5 +502,12 @@
     "start": "",
     "end": "",
     "days": 30
+  },
+  "D-HONOB0": {
+    "type": "1天卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "days": 1
   }
 }
