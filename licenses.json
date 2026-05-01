@@ -204,9 +204,9 @@
   },
   "W-53CTJJ": {
     "type": "1周卡",
-    "pcid": "",
-    "start": "",
-    "end": "",
+    "pcid": "UNKNOWN_PCID",
+    "start": "2026-05-02 00:19:47",
+    "end": "2026-05-09 00:19:47",
     "days": 7
   },
   "W-BOFIZE": {
