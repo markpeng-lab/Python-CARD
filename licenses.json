@@ -491,9 +491,9 @@
   },
   "M-V8KKRW": {
     "type": "1月卡",
-    "pcid": "",
-    "start": "",
-    "end": "",
+    "pcid": "UNKNOWN_PCID",
+    "start": "2026-05-01 15:58:49",
+    "end": "2026-05-31 15:58:49",
     "days": 30
   },
   "M-SOOSRZ": {
