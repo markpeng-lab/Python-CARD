@@ -495,5 +495,12 @@
     "start": "",
     "end": "",
     "days": 30
+  },
+  "M-SOOSRZ": {
+    "type": "1月卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "days": 30
   }
 }
