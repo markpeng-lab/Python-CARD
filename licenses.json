@@ -467,5 +467,12 @@
     "start": "",
     "end": "",
     "days": 30
+  },
+  "T-XKH5SR": {
+    "type": "3小時試用卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "hours": 3
   }
 }
