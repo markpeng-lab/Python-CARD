@@ -509,5 +509,12 @@
     "start": "",
     "end": "",
     "days": 1
+  },
+  "W-62FVDU": {
+    "type": "1周卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "days": 7
   }
 }
