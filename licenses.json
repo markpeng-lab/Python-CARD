@@ -544,5 +544,12 @@
     "start": "",
     "end": "",
     "days": 1
+  },
+  "M-MJREV1": {
+    "type": "1月卡",
+    "pcid": "",
+    "start": "",
+    "end": "",
+    "days": 30
   }
 }
